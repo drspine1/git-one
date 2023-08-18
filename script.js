@@ -1,0 +1,1 @@
+console.log("javacsript is damn hard amnd confusing")
